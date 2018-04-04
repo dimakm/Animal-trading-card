@@ -16,7 +16,7 @@ body{
   box-shadow: 10px 10px 30px -12px rgba(100, 100, 100, 0.9);
   border-radius:10px;
   background-color:rgba(175, 225, 245, 0.5);
-  margin:auto; /*auto margin will keep the card in the middle of the page and that's why I used it*/
+  margin:30px auto; /*auto margin will keep the card in the middle of the page and that's why I used it*/
 }
 
 .details {
