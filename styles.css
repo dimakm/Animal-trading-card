@@ -1,0 +1,61 @@
+/* add your CSS here */
+body{
+  background-image: url("http://www.dimakroma.com/project2BG.jpg");
+   background-color: #b0dff6;
+   background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+     font-family:Architects daughter;
+
+}
+
+.card {
+  border: 1px solid lightgray;
+  width: 320px;
+  padding: 10px 10px 20px 10px;
+  box-shadow: 10px 10px 30px -12px rgba(100, 100, 100, 0.9);
+  border-radius:10px;
+  background-color:rgba(175, 225, 245, 0.5);
+  margin:auto; /*auto margin will keep the card in the middle of the page and that's why I used it*/
+}
+
+.details {
+  border: 1px solid lightgray;
+  width: 280px;
+  margin: auto;
+  padding:10px;
+  border-radius:4px;
+  background-color:#90c853;
+  font-family:Ariel ;
+}	 
+	 
+.italic-details {
+	font-style:italic;
+	}
+	
+span { 
+   font-weight:bold;
+   }
+   
+ul {
+    list-style: none;
+    padding-left: 0;
+}	 
+	 
+ h3 {
+  font-weight: bold;
+  font-size: 38px;
+  margin-left:10px;
+}
+
+
+img {
+  display: block;
+  margin: auto;
+  padding-bottom: 10px;
+  width:300px;
+  border-radius:4px;
+  
+  
+ }
+
